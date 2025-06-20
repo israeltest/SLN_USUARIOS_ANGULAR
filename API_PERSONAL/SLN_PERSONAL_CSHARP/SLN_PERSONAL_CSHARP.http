@@ -1,0 +1,6 @@
+@SLN_PERSONAL_CSHARP_HostAddress = http://localhost:5058
+
+GET {{SLN_PERSONAL_CSHARP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
